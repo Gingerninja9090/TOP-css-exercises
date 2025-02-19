@@ -1,0 +1,16 @@
+/*Button 1 style */
+.Button1 {
+    background-color: hsl(0, 0%, 0%);
+    color: #ffffff;
+}
+
+/*Button 2 style */
+.Button2 {
+    background-color: rgb(255, 255, 0);
+}
+
+/*Button 1 & Button 2 style */
+.Button1, .Button2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
