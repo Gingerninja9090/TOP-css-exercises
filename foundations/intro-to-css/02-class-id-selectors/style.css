@@ -1,0 +1,22 @@
+/*Odd number lines style*/
+.odd {
+    background-color: #f40d30;
+    font-family:"Verdana", "DejaVu Sans", sans-serif;
+}
+
+/*Line 2 style*/
+#Line2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+/*Line 3 & 4 style*/
+.adjust-font {
+    font-size: 24px;
+}
+
+/*Line 4 style*/
+#Line4 {
+    background-color: #90ee90;
+    font-weight: bold;
+}
